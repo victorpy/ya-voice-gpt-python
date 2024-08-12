@@ -1,0 +1,4 @@
+pyaudio
+py3-tts
+openai
+SpeechRecognition
